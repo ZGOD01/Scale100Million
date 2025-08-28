@@ -68,9 +68,9 @@ export default function Footer() {
           <div className="flex flex-col items-start md:items-end text-sm">
             <p className="mb-4">Follow us on</p>
             <div className="flex gap-4 text-2xl">
-              <a href="#" className="hover:text-white"><FaInstagram /></a>
+              <a href="https://www.instagram.com/scale100million/" className="hover:text-white"><FaInstagram /></a>
               <a href="#" className="hover:text-white"><FaXTwitter /></a>
-              <a href="#" className="hover:text-white"><FaYoutube /></a>
+              <a href="https://www.youtube.com/@abhaylagad620" className="hover:text-white"><FaYoutube /></a>
             </div>
           </div>
         </div>
